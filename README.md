@@ -1,4 +1,4 @@
-# 👾🎮 Jogo JavaScript Food Battle Simulator:
+# 👾🎮 Food Battle Simulator (JavaScript Game) :
 ![logo](https://github.com/user-attachments/assets/b7f8fce4-96db-4f5e-9a1f-c715ea5a8b03)
 # 👾🎮 A Pokemon Fire Red-style RPG made with JavaScript:
 ![mostrando o rpg1](https://github.com/user-attachments/assets/452eea8a-cd81-4171-a6a4-301d3aaa1597)
